@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cd25ffc-cf72-42e9-a4d6-773b0963103a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/finance.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainFile.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +17,12 @@
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,32 +49,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainFile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <marker date="1548377696009" expanded="true" signature="78:79" ph="..." />
-                <marker date="1548377696009" expanded="true" signature="78:84" ph="..." />
-                <marker date="1548377696009" expanded="true" signature="678:679" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/check.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-380">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="1440">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
-                <marker date="1548636810689" expanded="true" signature="102:103" ph="..." />
-                <marker date="1548636810689" expanded="true" signature="102:108" ph="..." />
-                <marker date="1548636810689" expanded="true" signature="891:892" ph="..." />
-                <marker date="1548636810689" expanded="true" signature="891:897" ph="..." />
-                <marker date="1548636810689" expanded="true" signature="1351:2258" ph="..." />
               </folding>
             </state>
           </provider>
@@ -100,12 +81,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mainFile.py" />
         <option value="$PROJECT_DIR$/check.py" />
+        <option value="$PROJECT_DIR$/mainFile.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="592" />
     <option name="width" value="784" />
     <option name="height" value="735" />
@@ -216,6 +197,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11584455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -240,29 +222,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mainFile.py">
+    <entry file="file://$PROJECT_DIR$/check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="300">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
-            <marker date="1548377696009" expanded="true" signature="78:79" ph="..." />
-            <marker date="1548377696009" expanded="true" signature="78:84" ph="..." />
-            <marker date="1548377696009" expanded="true" signature="678:679" ph="..." />
+            <element signature="e#0#20#0" expanded="true" />
+            <marker date="1548717760565" expanded="true" signature="102:103" ph="..." />
+            <marker date="1548717760565" expanded="true" signature="102:108" ph="..." />
+            <marker date="1548717760565" expanded="true" signature="891:892" ph="..." />
+            <marker date="1548717760565" expanded="true" signature="891:897" ph="..." />
+            <marker date="1548717760565" expanded="true" signature="1351:2259" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/check.py">
+    <entry file="file://$PROJECT_DIR$/mainFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="1440">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
-            <marker date="1548636810689" expanded="true" signature="102:103" ph="..." />
-            <marker date="1548636810689" expanded="true" signature="102:108" ph="..." />
-            <marker date="1548636810689" expanded="true" signature="891:892" ph="..." />
-            <marker date="1548636810689" expanded="true" signature="891:897" ph="..." />
-            <marker date="1548636810689" expanded="true" signature="1351:2258" ph="..." />
           </folding>
         </state>
       </provider>
